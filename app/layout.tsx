@@ -3,9 +3,9 @@
 import { useState, useEffect } from "react"
 import { Inter } from 'next/font/google'
 import "./globals.css"
-import Header from "@/components/ui/Header"
-import Sidebar from "@/components/ui/SideBar"
-import 'leaflet/dist/leaflet.css'
+import Header from "@/components/Header"
+import Sidebar from "@/components/Sidebar"
+//import 'leaflet/dist/leaflet.css'
 import { Toaster } from 'react-hot-toast'
 
 
